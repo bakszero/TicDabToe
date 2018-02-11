@@ -3,10 +3,10 @@ Implemented techniques like Alpha Beta Pruning, Mini-max, etc.
 
 ## Usage
 ```python
-python simulator.py <option>
+python simulator.py option
 ```
 
-<option> can be:
+*option* can be:
   
 1 => Random player vs. Random player'
 
